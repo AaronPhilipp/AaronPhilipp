@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AaronPhilipp
-- 👀 I studied Sociology in Leipzig, Germany.
+- 🎓 I studied Sociology in Leipzig, Germany.
 - 🌱 I’m currently learning Python and everything that goes with being a data scientist
 - 📫 Email me at aaron.pawletta@gmail.com if you'd like to get in touch.
 
