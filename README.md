@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AaronPhilipp
-- 🎓 Scientific Researcher at the University of Potsdam.
+- 🎓 Research Associate at the University of Potsdam.
 - 🌱 I’m currently learning Python and everything that goes with being a data scientist
 - 📫 Email me at aaron.pawletta@gmail.com if you'd like to get in touch.
 
